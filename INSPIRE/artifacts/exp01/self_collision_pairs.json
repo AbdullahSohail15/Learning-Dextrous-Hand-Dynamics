@@ -1,0 +1,40 @@
+{
+ "n_random": 400,
+ "overlapping": {
+  "hand_base_link|thumb_proximal": {
+   "open_mm": 10.573067176756508,
+   "frac_random": 0.925,
+   "max_mm": 11.66089814796194
+  },
+  "index_intermediate|thumb_distal": {
+   "open_mm": 0.0,
+   "frac_random": 0.105,
+   "max_mm": 6.642986656964861
+  },
+  "index_intermediate|thumb_intermediate": {
+   "open_mm": 0.0,
+   "frac_random": 0.075,
+   "max_mm": 8.098512109677094
+  },
+  "index_intermediate|thumb_proximal": {
+   "open_mm": 0.0,
+   "frac_random": 0.0675,
+   "max_mm": 9.42727336832462
+  },
+  "index_proximal|thumb_distal": {
+   "open_mm": 0.0,
+   "frac_random": 0.065,
+   "max_mm": 7.133716934096141
+  },
+  "middle_intermediate|thumb_intermediate": {
+   "open_mm": 0.0,
+   "frac_random": 0.0025,
+   "max_mm": 0.4997316041878714
+  },
+  "middle_intermediate|thumb_proximal": {
+   "open_mm": 0.0,
+   "frac_random": 0.0075,
+   "max_mm": 1.1004740086569837
+  }
+ }
+}

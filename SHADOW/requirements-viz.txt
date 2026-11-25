@@ -1,0 +1,9 @@
+# Rendering / analysis environment (SHADOW/.venv_viz, Python 3.10). Versions used for the published videos.
+viser==1.1.1
+playwright==1.63.0
+imageio==2.38.0
+imageio-ffmpeg==0.6.0
+numpy==2.2.6
+pillow==12.3.0
+trimesh==5.1.0
+scipy==1.15.3

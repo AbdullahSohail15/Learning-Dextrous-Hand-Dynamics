@@ -1,0 +1,7 @@
+{
+  "logical_cpus": [222, 223],
+  "maximum_combined_cpu_percent": 200,
+  "library_threads": 1,
+  "parallel_experiment_jobs": 1,
+  "enforcement": "All experiment roots and descendants share the same two-CPU affinity mask; inherited seccomp filter rejects sched_setaffinity after pinning."
+}

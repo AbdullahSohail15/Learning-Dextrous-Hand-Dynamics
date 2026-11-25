@@ -1,0 +1,22 @@
+{
+ "model": "artifacts/exp49/ladder/f1/model.json",
+ "collected": [
+  "artifacts/exp49/ladder/r1"
+ ],
+ "pool": 2048,
+ "pool_checked": 1062,
+ "selected": 1,
+ "random": false,
+ "params": 388,
+ "logdet": {
+  "start": 4976.9239351345495,
+  "final": 5918.553177926891
+ },
+ "families": {
+  "designed_multisine": 1
+ },
+ "speeds": {
+  "30.0": 1
+ },
+ "seconds": 754.1436574459076
+}

@@ -1,0 +1,74 @@
+{
+ "actuated": [
+  "thumb_proximal_yaw_joint",
+  "thumb_proximal_pitch_joint",
+  "index_proximal_joint",
+  "middle_proximal_joint",
+  "ring_proximal_joint",
+  "pinky_proximal_joint"
+ ],
+ "spec_limits": {
+  "thumb_proximal_yaw_joint": {
+   "velocity": 1.2217304763960306,
+   "effort": 0.8999999999999999
+  },
+  "thumb_proximal_pitch_joint": {
+   "velocity": 1.2217304763960306,
+   "effort": 0.8999999999999999
+  },
+  "index_proximal_joint": {
+   "velocity": 4.537856055185257,
+   "effort": 0.7000000000000001
+  },
+  "middle_proximal_joint": {
+   "velocity": 4.537856055185257,
+   "effort": 0.7000000000000001
+  },
+  "ring_proximal_joint": {
+   "velocity": 4.537856055185257,
+   "effort": 0.7000000000000001
+  },
+  "pinky_proximal_joint": {
+   "velocity": 4.537856055185257,
+   "effort": 0.7000000000000001
+  }
+ },
+ "coupling": {
+  "thumb_intermediate_joint": {
+   "source": "thumb_proximal_pitch_joint",
+   "multiplier": 1.334,
+   "offset": 0.0,
+   "dexurdf_offset": 0.0
+  },
+  "thumb_distal_joint": {
+   "source": "thumb_proximal_pitch_joint",
+   "multiplier": 0.667,
+   "offset": 0.0,
+   "dexurdf_offset": 0.0
+  },
+  "index_intermediate_joint": {
+   "source": "index_proximal_joint",
+   "multiplier": 1.06399,
+   "offset": 0.0,
+   "dexurdf_offset": -0.04545
+  },
+  "middle_intermediate_joint": {
+   "source": "middle_proximal_joint",
+   "multiplier": 1.06399,
+   "offset": 0.0,
+   "dexurdf_offset": -0.04545
+  },
+  "ring_intermediate_joint": {
+   "source": "ring_proximal_joint",
+   "multiplier": 1.06399,
+   "offset": 0.0,
+   "dexurdf_offset": -0.04545
+  },
+  "pinky_intermediate_joint": {
+   "source": "pinky_proximal_joint",
+   "multiplier": 1.06399,
+   "offset": 0.0,
+   "dexurdf_offset": -0.04545
+  }
+ }
+}

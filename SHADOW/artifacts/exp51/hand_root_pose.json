@@ -1,0 +1,49 @@
+{
+ "root_pos": [
+  0.0,
+  0.0,
+  0.5
+ ],
+ "root_quat_wxyz": [
+  -8.963204436440719e-07,
+  -8.963237405623659e-07,
+  0.7071080803871155,
+  -0.7071055173873901
+ ],
+ "in_hand": [
+  0.0,
+  -0.38999998569488525,
+  0.5600000023841858
+ ],
+ "cube_size": [
+  0.06,
+  0.06000000000000005,
+  0.06000000000000005
+ ],
+ "joint_names": [
+  "robot0_WRJ1",
+  "robot0_WRJ0",
+  "robot0_FFJ3",
+  "robot0_MFJ3",
+  "robot0_RFJ3",
+  "robot0_LFJ4",
+  "robot0_THJ4",
+  "robot0_FFJ2",
+  "robot0_MFJ2",
+  "robot0_RFJ2",
+  "robot0_LFJ3",
+  "robot0_THJ3",
+  "robot0_FFJ1",
+  "robot0_MFJ1",
+  "robot0_RFJ1",
+  "robot0_LFJ2",
+  "robot0_THJ2",
+  "robot0_FFJ0",
+  "robot0_MFJ0",
+  "robot0_RFJ0",
+  "robot0_LFJ1",
+  "robot0_THJ1",
+  "robot0_LFJ0",
+  "robot0_THJ0"
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "schema": "exp49-collect-1",
+ "gravity": true,
+ "gravity_root": [
+  -2.4870134438970126e-05,
+  9.810001373291016,
+  3.528594970703125e-05
+ ],
+ "physics_hz": 120,
+ "control_hz": 20,
+ "programs_requested": 1,
+ "programs_run": 1,
+ "programs_dropped_precheck": 0,
+ "seconds": 20.0,
+ "speeds": [
+  30.0
+ ],
+ "families": [
+  "designed_multisine"
+ ],
+ "truncated": 0,
+ "valid_minutes": 0.33416666666666667,
+ "valid_free_minutes": 0.28833333333333333,
+ "validity_fraction": {
+  "free": 0.8628428927680798,
+  "contact": 0.1371571072319202,
+  "invalid_pen": 0.0,
+  "invalid_num": 0.0
+ },
+ "source": "artifacts/exp49/min/d_m1.npz",
+ "joint_names": [
+  "robot0_WRJ1",
+  "robot0_WRJ0",
+  "robot0_FFJ3",
+  "robot0_MFJ3",
+  "robot0_RFJ3",
+  "robot0_LFJ4",
+  "robot0_THJ4",
+  "robot0_FFJ2",
+  "robot0_MFJ2",
+  "robot0_RFJ2",
+  "robot0_LFJ3",
+  "robot0_THJ3",
+  "robot0_FFJ1",
+  "robot0_MFJ1",
+  "robot0_RFJ1",
+  "robot0_LFJ2",
+  "robot0_THJ2",
+  "robot0_FFJ0",
+  "robot0_MFJ0",
+  "robot0_RFJ0",
+  "robot0_LFJ1",
+  "robot0_THJ1",
+  "robot0_LFJ0",
+  "robot0_THJ0"
+ ],
+ "action_names": [
+  "robot0_WRJ1",
+  "robot0_WRJ0",
+  "robot0_FFJ3",
+  "robot0_MFJ3",
+  "robot0_RFJ3",
+  "robot0_LFJ4",
+  "robot0_THJ4",
+  "robot0_FFJ2",
+  "robot0_MFJ2",
+  "robot0_RFJ2",
+  "robot0_LFJ3",
+  "robot0_THJ3",
+  "robot0_FFJ1",
+  "robot0_MFJ1",
+  "robot0_RFJ1",
+  "robot0_LFJ2",
+  "robot0_THJ2",
+  "robot0_LFJ1",
+  "robot0_THJ1",
+  "robot0_THJ0"
+ ],
+ "wall_s": 21.277644872665405
+}
