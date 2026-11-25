@@ -20,7 +20,7 @@ uv pip install "isaacsim==4.2.0.2" "isaacsim-extscache-physics==4.2.0.2" "isaacs
 uv pip install torch==2.4.0 torchvision==0.19.0 --index-url https://download.pytorch.org/whl/cu121
 git clone https://github.com/isaac-sim/IsaacLab.git ~/envs/isaac42_src/IsaacLab
 cd ~/envs/isaac42_src/IsaacLab && git checkout e00d62561a1b4ab19985bc15b40ac77c10bd5e33 && ./isaaclab.sh --install none
-uv pip install -c /path/to/hand-planning-control-stack/SHADOW/constraints.txt h5py rsl-rl-lib==2.0.2
+uv pip install -c /path/to/Learning-Dextrous-Hand-Dynamics/SHADOW/constraints.txt h5py rsl-rl-lib==2.0.2
 ```
 
 `SHADOW/environment-freeze.txt` is the full `pip freeze` of the environment the results were produced with, and

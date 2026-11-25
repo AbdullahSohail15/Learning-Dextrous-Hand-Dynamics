@@ -1,4 +1,4 @@
-# Planning and Control Stack for Dexterous Hands
+# Learning Dextrous Hand Dynamics
 
 **Abdullah Sohail · Anush Lakshman · Harisankar**
 
@@ -141,7 +141,7 @@ A regularised refit (experiment 04b) gets 70.0% against 46.7% for the plain fit 
 ## Quick start
 
 ```bash
-git clone https://github.com/AbdullahSohail15/hand-planning-control-stack.git && cd hand-planning-control-stack
+git clone https://github.com/AbdullahSohail15/Learning-Dextrous-Hand-Dynamics.git && cd Learning-Dextrous-Hand-Dynamics
 export ISAAC_PYTHON=~/envs/isaac42/bin/python      # Isaac Sim 4.2 + Isaac Lab 1.2 (docs/installation.md)
 
 cd INSPIRE && ./run_demo.sh                         # Inspire: crossing gestures, 3 controllers, 2 rendered clips (minutes)
@@ -162,7 +162,7 @@ cd ../SHADOW && QUICK=1 ./run_demo.sh               # Shadow: 1 gesture + 3 cube
 ## Repository layout
 
 ```
-hand-planning-control-stack/
+Learning-Dextrous-Hand-Dynamics/
 ├── README.md, LICENSE
 ├── docs/                       installation, per-hand commands, method; media/ holds the README GIFs and images
 ├── SHADOW/
